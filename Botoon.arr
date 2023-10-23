@@ -1,6 +1,4 @@
-#Jeg brukte wikipedia nettsiden som ble henvist i 
-oppgavemappen for å finne ut proporsjonene til flagget som var 22:16. 
-Ganget de med 10, som var grunnen til jeg valgte empty-scene(220, 100).   
+#Jeg brukte wikipedia nettsiden som ble henvist i oppgavemappen for å finne ut proporsjonene til flagget som var 22:16. Ganget de med 10, som var grunnen til jeg valgte empty-scene(220, 100).   
 
 #variabler
 rectOne=rectangle(60,60, "solid", "crimson")
